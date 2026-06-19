@@ -5,4 +5,4 @@ Cấu trúc thư mục
 
 <img width="1190" height="560" alt="image" src="https://github.com/user-attachments/assets/82b6851c-4389-415d-b257-adbc9e58fa8a" />
 
-link youtobe: https://youtu.be/boROndljjYo
+link youtobe: https://youtu.be/exNh5HtgtYY
